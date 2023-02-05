@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "[dart]": {
+        "editor.formatOnSave": true
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "workbench.editor.limit.value": 4,
+    "editor.hover.enabled": true,
+}
